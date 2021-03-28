@@ -1,0 +1,3 @@
+﻿  ASD_2.cpp
+C:\Users\User\Desktop\Навчання\асд\код\ASD_2\ASD_2.cpp(14,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ASD_2.vcxproj -> C:\Users\User\Desktop\Навчання\асд\код\ASD_2\Debug\ASD_2.exe
